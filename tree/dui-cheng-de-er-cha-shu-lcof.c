@@ -1,3 +1,5 @@
+// https://leetcode.cn/problems/dui-cheng-de-er-cha-shu-lcof/
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -12,7 +14,7 @@ typedef struct TreeNode {
      int val;
       struct TreeNode *left;
      struct TreeNode *right;
- };
+};
 
 bool isMirror(struct TreeNode* left,struct TreeNode* right) {
   if (left == 0 && right != 0) {

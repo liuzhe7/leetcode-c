@@ -1,3 +1,5 @@
+//https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/
+
 int missingNumber(int* nums, int numsSize){
   if (nums[0] == 1) {
     return 0;

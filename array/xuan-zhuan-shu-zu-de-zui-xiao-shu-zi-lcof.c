@@ -1,3 +1,5 @@
+//https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
+
 int minArray(int* numbers, int numbersSize){
   int min = 0;
   int max = numbersSize -1;
