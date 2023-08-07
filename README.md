@@ -1,3 +1,5 @@
 # leetcode-c
 
-用c实现leetcode 算法题
+用 c 实现 leetcode 算法题。
+
+implement the algorithm problem of the leetcode by c.
